@@ -1,0 +1,22 @@
+﻿<Window x:Class="Data_management.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Data_management"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Data management" HorizontalAlignment="Left" Margin="374,29,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="98,99,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Employee roster" HorizontalAlignment="Left" Margin="111,68,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Width="75"/>
+        <ComboBox HorizontalAlignment="Left" Margin="358,99,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Current crops" HorizontalAlignment="Left" Margin="385,68,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.154,0.539"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="278,99,0,0" VerticalAlignment="Top" Width="75"/>
+        <ComboBox HorizontalAlignment="Left" Margin="608,99,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.555,0.438"/>
+        <Label Content="Vehicle list" HorizontalAlignment="Left" Margin="635,68,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="528,99,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

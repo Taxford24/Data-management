@@ -1,0 +1,15 @@
+D:\Second year\Software\Data management\Data management\bin\Debug\Data management.exe.config
+D:\Second year\Software\Data management\Data management\bin\Debug\Data management.exe
+D:\Second year\Software\Data management\Data management\bin\Debug\Data management.pdb
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.csprojAssemblyReference.cache
+D:\Second year\Software\Data management\Data management\obj\Debug\MainWindow.g.cs
+D:\Second year\Software\Data management\Data management\obj\Debug\App.g.cs
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management_MarkupCompile.cache
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management_MarkupCompile.lref
+D:\Second year\Software\Data management\Data management\obj\Debug\MainWindow.baml
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.g.resources
+D:\Second year\Software\Data management\Data management\obj\Debug\Data_management.Properties.Resources.resources
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.csproj.GenerateResource.cache
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.csproj.CoreCompileInputs.cache
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.exe
+D:\Second year\Software\Data management\Data management\obj\Debug\Data management.pdb

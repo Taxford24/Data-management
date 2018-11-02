@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data management", "Data management\Data management.csproj", "{2243AC4E-3A26-4BCD-B643-718C8E2AA54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2243AC4E-3A26-4BCD-B643-718C8E2AA54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2243AC4E-3A26-4BCD-B643-718C8E2AA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2243AC4E-3A26-4BCD-B643-718C8E2AA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2243AC4E-3A26-4BCD-B643-718C8E2AA54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10E279C-5F72-4463-A4F1-9939D60F5190}
+	EndGlobalSection
+EndGlobal
